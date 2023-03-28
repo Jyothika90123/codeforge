@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Letter</title>
+</head>
+<body>
+    <p><strong>Dr Amelia Lucas</strong></p>
+    <p>201 Katlian st</p>
+    <p>Sitka</p>
+    <p>Zip code:99835</p>
+    <p>Phone:(907) 747-3617</p>
+    &nbsp;
+    <p>4th February 2019</p>
+    &nbsp;
+    <p><strong>Miss Ava Chloe</strong></p>
+        <p>10672 Kenai Spur Highway</p>
+        <p>Suite 106 </p>
+        <p>Kenai</p>
+        <p>Kenai Peninsula</p>
+        <p>Zip code:99611</p>
+        <p>Phone:(907) 283-4402</p>
+    
+    <h2>Subject:Confirmation letter of selection</h2>
+
+    <p>Respected Miss,</p>
+              <p>We are happy to announce that you have been selected for the research fellowship for the academic year 2019-2020 at Oxford.You will be going through various programmes during the fellowship which will surely enrich you as an individual.Make sure you keep upto the standards and follow the curriculum properly.You will be interacting with a lot of people from various backgrounds which will upskill your interactive and communication skills.You will have to work hard once you reach here to standout.you can refer the various <a href="https://openknowledgemaps.org/about">research papers</a>here.</p>
+       &nbsp;
+       <p>Looking forward to see you here anytime soon.</p> 
+    <p>  Yours Sincerely,</p>
+    
+        <p>Dr Amelia Lucas</p>
+</body>
+</html>
